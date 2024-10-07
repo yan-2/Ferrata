@@ -20,14 +20,6 @@ export const menuItems: IMenuItem[] = [
     title: "Devices",
     href: "/topic/devices",
   },
-  {
-    title: "About",
-    href: "/about",
-  },
-  {
-    title: "Contact",
-    href: "/contact",
-  },
 ];
 
 export const siteInfo = {
