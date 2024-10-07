@@ -3,7 +3,7 @@ title: "Via Ferrata at Palabione"
 subtitle: "An Alpine Adventure: Conquer the Thrilling Via Ferrata Palabione in Italy"
 date: "2024-10-1"
 featured_image: "/images/Palabione.png"
-topics: ["Devices"]
+topics: ["Others"]
 author: "NSt Writer"
 ---
 

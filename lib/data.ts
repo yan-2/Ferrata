@@ -17,8 +17,8 @@ export const menuItems: IMenuItem[] = [
     href: "/topic/best",
   },
   {
-    title: "Devices",
-    href: "/topic/devices",
+    title: "Others",
+    href: "/topic/others",
   },
 ];
 
